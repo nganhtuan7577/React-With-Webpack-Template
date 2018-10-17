@@ -1,11 +1,12 @@
 # React-With-Webpack-Template
 Simple template for ReactJS app use Webpack
 
-To use:
-npm install
+**To use:**
+> `npm install`
 
-To build production:
-npm run build -> /build/index.html
+**To build production:**
+> `npm run build` 
+=>run file /build/index.html
 
-To run development:
-npm start
+**To run development:**
+> `npm start`
